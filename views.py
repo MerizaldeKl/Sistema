@@ -1,4 +1,4 @@
-"""Controladores: conectan las acciones del menú con modelos y archivos JSON.
+"""Controladors: conectan las acciones del menú con modelos y archivos JSON.
 
 Aquí se validan los datos y se coordinan las operaciones de clientes,
 productos y ventas antes de guardarlas.
